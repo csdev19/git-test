@@ -2,7 +2,7 @@
 
 ## Contributor
 
-Cristian Sotomayor
+- Cristian Fabrizio Sotomayor
 
 
 ad
